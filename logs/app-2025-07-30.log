@@ -1,0 +1,26 @@
+[INFO ] 2025-07-30 11:22:24.889 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-30 11:22:33.187 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-30 11:22:35.201 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-07-30 11:42:42.967 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-30 11:42:49.421 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-30 11:42:50.707 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-07-30 11:43:03.009 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-30 11:43:07.238 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-30 11:43:09.087 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-07-30 11:46:40.690 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-30 11:46:42.812 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-30 11:46:43.462 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-07-30 11:46:43.844 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-07-30 11:46:43.847 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-07-30 11:46:45.220 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-07-30 11:46:45.266 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-30 11:46:47.140 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-30 11:46:49.393 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***

@@ -1,0 +1,368 @@
+[INFO ] 2025-07-31 10:07:42.643 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\grouping.xml
+
+[INFO ] 2025-07-31 10:07:47.225 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 10:07:48.111 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-07-31 10:07:48.572 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-07-31 10:07:48.574 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-07-31 10:07:49.888 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-07-31 10:07:49.940 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 10:09:48.717 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\grouping.xml
+
+[INFO ] 2025-07-31 10:09:50.825 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 10:09:51.533 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-07-31 10:09:51.921 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-07-31 10:09:51.923 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-07-31 10:09:52.552 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-07-31 10:09:53.284 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 10:10:24.037 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\grouping.xml
+
+[INFO ] 2025-07-31 10:10:26.107 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 10:10:26.668 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-07-31 10:10:27.039 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-07-31 10:10:27.041 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-07-31 10:10:28.397 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-07-31 10:10:28.438 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 10:10:30.325 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-31 10:10:32.181 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-07-31 15:20:08.264 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:20:15.114 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:20:15.612 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:20:16.050 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:20:16.537 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:20:16.974 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:26:45.778 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:26:52.111 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:26:52.719 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:26:53.152 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:26:53.603 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:26:54.362 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:27:08.761 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:27:13.724 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:27:14.486 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:27:14.957 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:27:15.606 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:27:16.233 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:46:05.754 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:46:10.053 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:46:10.592 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:46:11.094 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:46:11.543 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:46:12.120 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:51:55.928 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:52:00.417 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:00.963 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:01.406 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:01.952 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:02.385 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:23.692 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:52:28.156 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:28.702 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:29.054 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:29.510 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:52:29.922 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:53:14.904 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 15:53:19.288 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:53:19.839 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:53:20.304 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:53:20.851 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:53:21.333 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 15:56:55.698 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.703 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2025-07-31 15:56:55.704 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.704 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.705 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.705 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.706 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.706 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2025-07-31 15:56:55.722 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2025-07-31 15:56:55.724 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.724 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.725 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.725 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.726 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.726 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.728 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.728 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.729 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.729 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.730 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.730 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.730 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.730 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.731 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.732 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-07-31 15:56:55.733 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.734 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.734 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.734 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 15:56:55.743 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\AppData\Local\Temp\testng-eclipse-1344836464\testng-customsuite.xml
+
+[INFO ] 2025-07-31 15:56:55.763 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[INFO ] 2025-07-31 15:56:57.015 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@54da32dc: 65 ms
+[INFO ] 2025-07-31 15:56:57.030 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68809cc7: 14 ms
+[INFO ] 2025-07-31 15:56:57.045 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4650a407: 14 ms
+[INFO ] 2025-07-31 15:56:57.073 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4e38d975: 28 ms
+[INFO ] 2025-07-31 15:56:57.079 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a50ae65: 6 ms
+[INFO ] 2025-07-31 15:56:57.080 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1280851e: 1 ms
+[INFO ] 2025-07-31 16:00:10.295 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:00:14.645 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:00:15.132 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:00:15.581 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:00:15.985 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:00:16.414 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:05:26.815 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:05:29.464 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-31 16:05:31.737 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-07-31 16:06:17.697 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:06:20.866 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-31 16:06:23.146 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-07-31 16:07:22.573 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:07:27.679 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:07:28.219 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:07:28.677 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:07:29.221 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:07:29.715 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:09:50.487 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:11:45.588 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:12:31.235 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:12:35.930 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:36.444 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:36.910 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:37.335 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:37.854 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:49.941 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:12:54.331 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:54.783 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:55.255 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:55.773 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:12:56.308 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:09.920 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:13:14.603 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:15.172 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:15.614 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:16.212 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:16.682 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:44.269 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:13:48.599 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:49.067 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:49.474 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:49.951 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:13:50.437 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:14:03.151 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2025-07-31 16:14:03.156 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-07-31 16:14:03.158 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.158 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.158 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.159 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.159 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.159 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.163 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2025-07-31 16:14:03.172 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[INFO ] 2025-07-31 16:14:03.174 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.175 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.176 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.176 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.177 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.177 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.181 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.181 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.182 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.182 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.183 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.183 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.183 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.183 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.184 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.185 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.186 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.186 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.186 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.186 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:14:03.197 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\AppData\Local\Temp\testng-eclipse--884931721\testng-customsuite.xml
+
+[INFO ] 2025-07-31 16:14:03.220 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2025-07-31 16:14:04.566 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@22fba58c: 77 ms
+[INFO ] 2025-07-31 16:14:04.580 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5ecba515: 14 ms
+[INFO ] 2025-07-31 16:14:04.596 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@53dfacba: 16 ms
+[INFO ] 2025-07-31 16:14:04.608 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@63e5e5b4: 11 ms
+[INFO ] 2025-07-31 16:14:04.615 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5972d253: 6 ms
+[INFO ] 2025-07-31 16:14:04.615 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4fcc0416: 0 ms
+[INFO ] 2025-07-31 16:21:26.585 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:21:47.406 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.412 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-07-31 16:21:47.414 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.414 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.415 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.415 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.415 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.415 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.419 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2025-07-31 16:21:47.430 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2025-07-31 16:21:47.432 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.432 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.433 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.433 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.434 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.434 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.438 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.438 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.439 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.439 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.440 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.440 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.440 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.440 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.441 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.442 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.443 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.443 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.443 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.443 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-07-31 16:21:47.454 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\AppData\Local\Temp\testng-eclipse--745009003\testng-customsuite.xml
+
+[INFO ] 2025-07-31 16:21:47.481 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[ERROR] 2025-07-31 16:21:48.895 [main] Utils - [Error] java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+	at utilities.DataProviders.getData(DataProviders.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:53)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:157)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:812)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:737)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:915)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:819)
+	at org.testng.TestRunner.run(TestRunner.java:619)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+	at org.testng.TestNG.runSuites(TestNG.java:1134)
+	at org.testng.TestNG.run(TestNG.java:1101)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+[INFO ] 2025-07-31 16:21:49.024 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@bdecc21: 72 ms
+[INFO ] 2025-07-31 16:21:49.041 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@783ec989: 17 ms
+[INFO ] 2025-07-31 16:21:49.057 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@abbc908: 16 ms
+[INFO ] 2025-07-31 16:21:49.067 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6edaa77a: 10 ms
+[INFO ] 2025-07-31 16:21:49.077 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@21ab988f: 10 ms
+[INFO ] 2025-07-31 16:21:49.078 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29314cc9: 0 ms
+[INFO ] 2025-07-31 16:41:54.658 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 16:42:00.973 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:04.353 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:04.376 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:16.435 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:16.445 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:28.368 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:28.381 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:40.336 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:40.344 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 16:42:42.826 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:23:59.411 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 17:24:06.306 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:08.552 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:08.563 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:19.964 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:19.971 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:30.841 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:30.845 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:42.200 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:42.205 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:24:44.010 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:28.230 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 17:29:32.411 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:34.466 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:34.477 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:45.327 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:45.331 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:56.883 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:29:56.886 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:30:08.203 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:30:08.209 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:30:16.304 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:34:34.354 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\master.xml
+
+[INFO ] 2025-07-31 17:34:37.638 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:34:39.275 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:34:39.282 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:34:49.850 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:35:00.910 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:35:11.870 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:35:11.874 [main] TC003_LoginDDT - *** Starting TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 17:35:13.467 [main] TC003_LoginDDT - *** Finished TC003_TC_LoginDDT ***
+[INFO ] 2025-07-31 18:14:15.881 [main] Utils - [TestNG] Running:
+  C:\Users\Zaango\eclipse-workspace\seleniumwebdriverjune25\OpencartJul28V888\grouping.xml
+
+[INFO ] 2025-07-31 18:14:19.606 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 18:14:20.418 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-07-31 18:14:20.843 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-07-31 18:14:20.846 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-07-31 18:14:22.294 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-07-31 18:14:22.342 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-07-31 18:14:24.269 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-07-31 18:14:26.230 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***

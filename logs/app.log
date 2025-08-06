@@ -1,0 +1,16 @@
+[INFO ] 2025-08-06 09:50:35.392 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-08-06 09:50:36.316 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-08-06 09:50:36.860 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-08-06 09:50:36.862 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-08-06 09:50:38.806 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-08-06 09:50:38.851 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-08-06 09:50:42.073 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-08-06 09:50:44.214 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
+[INFO ] 2025-08-06 09:59:15.315 [main] TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+[INFO ] 2025-08-06 09:59:16.380 [main] TC001_AccountRegistrationTest - *** Clicked on 'My Account Link' ***
+[INFO ] 2025-08-06 09:59:16.931 [main] TC001_AccountRegistrationTest - *** Clicked on 'Register Link' ***
+[INFO ] 2025-08-06 09:59:16.935 [main] TC001_AccountRegistrationTest - *** Providing customer details ***
+[INFO ] 2025-08-06 09:59:18.856 [main] TC001_AccountRegistrationTest - *** Validating expected message ***
+[INFO ] 2025-08-06 09:59:18.909 [main] TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+[INFO ] 2025-08-06 09:59:21.433 [main] TC002_LoginTest - *** Starting TC002_LoginTest ***
+[INFO ] 2025-08-06 09:59:23.727 [main] TC002_LoginTest - *** Finished TC002_LoginTest ***
